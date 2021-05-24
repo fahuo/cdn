@@ -11,10 +11,10 @@ a{cursor:pointer;}
 a:link,a:visited{color:#0072ff;/*text-decoration:none;*/}
 a:hover{color:#09baef;/*text-decoration:none;*/}
 a.alink_icon_14 , a.alink_icon_16 , a.alink_icon_18 , a.alink_icon_20{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px;  }
-a.alink_icon_14{ background-size: 12px; padding-left: 16px; }
-a.alink_icon_16{ background-size: 14px; padding-left: 18px; }
-a.alink_icon_18{ background-size: 16px; padding-left: 20px; }
-a.alink_icon_20{ background-size: 18px; padding-left: 22px; }
+a.alink_icon_14{ background-size: 13px; padding-left: 16px; }
+a.alink_icon_16{ background-size: 15px; padding-left: 18px; }
+a.alink_icon_18{ background-size: 17px; padding-left: 20px; }
+a.alink_icon_20{ background-size: 19px; padding-left: 22px; }
 
 body{font:15px/24px Arial,"microsoft yahei";color:#333;background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/shopname_shuiying_bg.gif);}
 
@@ -45,7 +45,7 @@ body{font:15px/24px Arial,"microsoft yahei";color:#333;background: url(https://c
 	.win_qianyan:before { position: absolute; left: 16px; top: -8px; width: 12px; height: 12px; background: #fff; border-right: 2px solid #757576; border-bottom: 2px solid #757576; -webkit-transform: rotate(225deg);
 content: '';}
 	/*.win_qianyan:after{ position: absolute; left: 4px; top: 4px; content: '前言'; background: #ffd800; padding: 0px 20px; border-radius: 3px; color: #333; font-size: 14px; line-height: 22px; }*/
-	.win_qianyan a.alink_icon{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px; background-size: 14px; padding-left: 18px; }
+	.win_qianyan a.alink_icon{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px; background-size: 15px; padding-left: 18px; }
 
 	.win_banben{ padding-top: 10px; }
 	.win_banben img{ max-width: 100%; height: auto; display: block; border: 1px dotted #868686; padding: 4px; margin: 0 auto; }
@@ -164,7 +164,7 @@ content: '';}
 	.win_qianyan:before { position: absolute; left: 16px; top: -8px; width: 12px; height: 12px; background: #fff; border-right: 2px solid #757576; border-bottom: 2px solid #757576; -webkit-transform: rotate(225deg);
 content: '';}
 	/*.win_qianyan:after{ position: absolute; left: 4px; top: 4px; content: '前言'; background: #ffd800; padding: 0px 20px; border-radius: 3px; color: #333; font-size: 14px; line-height: 22px; }*/
-	.win_qianyan a.alink_icon{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px; background-size: 14px; padding-left: 18px; }
+	.win_qianyan a.alink_icon{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px; background-size: 15px; padding-left: 18px; }
 
 	.win_banben{ padding-top: 5px; }
 	.win_banben img{ width: calc(100% - 10px); height: auto; display: block; border: 1px dotted #868686; padding: 4px; }
