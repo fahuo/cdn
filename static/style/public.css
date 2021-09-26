@@ -48,7 +48,7 @@ content: '';}
 	.win_qianyan a.alink_icon{ background: url(https://cdn.jsdelivr.net/gh/fahuo/upload/img/public/alink_icon-3.png) no-repeat 0px 2px; background-size: 15px; padding-left: 18px; }
 
 	.win_banben{ padding-top: 10px; }
-	.win_banben img{ max-width: 100%; height: auto; display: block; border: 1px dotted #868686; padding: 4px; margin: 0 auto; }
+	.win_banben img{ max-width: 400px; height: auto; display: block; border: 1px dotted #868686; padding: 4px; margin: 0 auto; }
 
 	.n_note_cont{ margin: 20px auto 10px; text-align: center; }
 	.n_note_cont:after{ clear: both; content: ""; display: table; }
